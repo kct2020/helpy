@@ -1,3 +1,6 @@
+Testing install via zeit.co
+=========================
+
 Helpy: A Modern Helpdesk Platform for the Web
 ====================================
 
